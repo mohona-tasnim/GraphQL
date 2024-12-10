@@ -1,9 +1,9 @@
-DOWNLOAD ALL THE FILE FOLDER GOT TO WHERE HAVE THE src FOLDER.
-OPEN Command Prompt (CMD) 
-TYPE: node index.js
-Then You get the link 
-http://localhost:4000/graphql  and  http://localhost:4000/
-OPEN THE LINK FROM THE BROWSER YOU CAN SEE THE RESULT 
+DOWNLOAD ALL THE FILE and FOLDER. THEN GO TO WHERE HAVE THE src FOLDER. 
+OPEN Command Prompt (CMD).  
+TYPE: node index.js 
+Then You get the link   
+http://localhost:4000/graphql  and  http://localhost:4000/ 
+OPEN THE LINK FROM THE BROWSER YOU CAN SEE THE RESULT. 
 
 THE PROCESS I FOLLOW TO CREATE THE PROJECT IS GIVEN BELOW:
 1. Description
